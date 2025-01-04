@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kushal Regmi, a first year B.TecH student
+- 👋 Hi, I’m @Kushal Regmi, a second year B.TecH student
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on inovative ideas on AI and machine learning
