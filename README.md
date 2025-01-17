@@ -1,7 +1,10 @@
 ## 👋 About Me
-- Hi, I’m **Kushal Regmi**, a second-year **B.Tech** student at **IOE Pulchowk Campus**
-- 💞️ Passionate about exploring the world of AI, building fun projects, and learning new tech
+
+- ![Name](https://img.shields.io/badge/Name-Kushal_Regmi-0077B5?style=flat-square&logo=github&logoColor=white)   
+- ![Education](https://img.shields.io/badge/Education-2nd_Year_B.Tech_Student_at_IOE_Pulchowk_Campus-FF5733?style=flat-square)  
+- 🌱 <span style="font-size: 16px; font-weight: bold;">Passionate about exploring AI, developing innovative projects, and staying up-to-date with technology</span>
 - 📫 How to reach me: [kushalregmi432@gmail.com](mailto:kushalregmi432@gmail.com)
+
 
 ## Skills
 - **Languages**:
@@ -14,7 +17,6 @@
 
 - **Tools & Frameworks**:
   - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  - ![Django](https://img.shields.io/badge/django-092D1F?style=for-the-badge&logo=django&logoColor=white)
   - ![Tkinter](https://img.shields.io/badge/tkinter-008000?style=for-the-badge&logo=python&logoColor=white)
   - ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0E5B5B?style=for-the-badge&logo=sqlalchemy&logoColor=white)
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
