@@ -1,8 +1,6 @@
 ## 👋 About Me
 - Hi, I’m **Kushal Regmi**, a second-year **B.Tech** student at **IOE Pulchowk Campus**
-- 👀 I’m interested in **Data Science** and **Machine Learning**
-- 🌱 I’m currently learning **Python**
-- 💞️ I’m looking to collaborate on innovative ideas in **AI** and **Machine Learning**
+- 💞️ Passionate about exploring the world of AI, building fun projects, and learning new tech
 - 📫 How to reach me: [kushalregmi432@gmail.com](mailto:kushalregmi432@gmail.com)
 
 ## Skills
