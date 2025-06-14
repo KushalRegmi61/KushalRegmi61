@@ -8,7 +8,13 @@
 - ![Name](https://img.shields.io/badge/Name-Kushal_Regmi-0077B5?style=flat-square&logo=github&logoColor=white)   
 - ![Education](https://img.shields.io/badge/Education-2nd_Year_B.Tech_Student_at_IOE_Pulchowk_Campus-FF5733?style=flat-square)  
 - 🌱 <span style="font-size: 16px; font-weight: bold;">Passionate about exploring AI, developing innovative projects, and staying up-to-date with technology</span>
-- 📫 How to reach me?: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kushalregmi432@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-regmi-0b88a42aa)
+- 📫 How to reach me?:
+
+  [![Email](https://img.shields.io/badge/kushalregmi432@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kushalregmi432@gmail.com) &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn%3A%20Kushal%20Regmi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-regmi-0b88a42aa)
+
+
+
 
 
 
