@@ -1,17 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Kushal Regmi</h1>
-<h3 align="center">AI Enthusiast | Developer | B.Tech Student at IOE Pulchowk Campus</h3>
+<h1 align="center">Hi there, I am Kushal Regmi</h1>
+<h3 align="center">AI Enthusiast | Python Developer | B.Tech Student at IOE Pulchowk Campus</h3>
 
 <hr>
 
-## 👋 About Me
+##  About Me
 
 - ![Name](https://img.shields.io/badge/Name-Kushal_Regmi-0077B5?style=flat-square&logo=github&logoColor=white)   
 - ![Education](https://img.shields.io/badge/Education-2nd_Year_B.Tech_Student_at_IOE_Pulchowk_Campus-FF5733?style=flat-square)  
-- 🌱 <span style="font-size: 16px; font-weight: bold;">Passionate about exploring AI, developing innovative projects, and staying up-to-date with technology</span>
-- 📫 How to reach me?:&nbsp;&nbsp;kushalregmi432@gmail.com  
+-  <span style="font-size: 16px; font-weight: bold;">Passionate about exploring AI, developing innovative projects, and staying up-to-date with technology</span>
+-  How to reach me?:&nbsp;&nbsp;kushalregmi432@gmail.com  
 
 
-## 🛠️ Skills
+##  Skills
 
 - **Languages**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
